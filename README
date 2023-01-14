@@ -1,0 +1,28 @@
+Snake v1.1
+
+It is a game of a snake that eats apples to grow. its
+view is rendered in a command console. The snake is
+formed by the letters 'x' and the apples by the
+letters 'o'. The border of the playing place is
+represented by the symbol '*'.
+
+It can be moved using the keys:
+-'w' to move up
+-'s' to move down
+-'a' to move left
+-'d' to move right
+
+After pressing the key, the enter key must be
+pressed to execute the movement.
+
+Updates:
+-The 'c' key to close the game
+-A functionality to clear the screen
+overlap
+-Score
+-Win screen
+-Game over screen
+-Fixed bug of overlapping the apple with the
+ body of the snake
+-Fixed bug of snake event filling the entire
+ screen
